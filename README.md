@@ -15,7 +15,7 @@ for more info.
 
 In a command prompt in your projects folder (wherever that may be) run the following:
 
-`git clone https://github.com/An-Idiots-Guide/guidebot.git`
+`git clone https://github.com/jdamboeck/b05.wtf-discord-bot.git`
 
 Once finished: 
 
