@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/An-Idiots-Guide/guidebot#readme",
   "dependencies": {
-    "better-sqlite-pool": "^0.1.2",
+    "better-sqlite-pool": "github:eslachance/better-sqlite-pool",
     "chalk": "^2.3.0",
     "discord.js": "^11.4.2",
     "enmap": "^4.8.5",
